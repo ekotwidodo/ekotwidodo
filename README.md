@@ -1,6 +1,6 @@
 - 👋 Hello, everyone! You can call me Eko
-- 💞️ I’m working as IT Engineer/Specialist on the governmental agency which is related to data ![BPS](https://bps.go.id)
-- 👀 I’m interested in DIKW (Data-Information-Knowledge-Wisdom) domain which processing raw data into meaningful, contextual, and applied things. 
+- 💞️ I’m working as IT Engineer/Specialist on the governmental agency which is related to data [BPS](https://bps.go.id)
+- 👀 I’m interested in DIKW pyramid which processing raw data into meaningful, contextual, and applied things.
 - 🌱 I’m currently learning Big Data Engineering, Information Retrieval, and Knowledge Graph
 - 📫 You can reach me by sending an email to id [dot] ekoteguh [at] gmail [dot] com
 
