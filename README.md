@@ -1,4 +1,4 @@
-## Hey 👋, I'm Eko Teguh Widodo!  
+## Hello 👋, I'm Eko Teguh!
   
 <a href="https://github.com/ekotwidodo" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -13,9 +13,14 @@
   <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
-## Research and Development Interests
+## Glad to see you here! 🤝
 
-Big Data Engineering and Analytics, Information Retrieval, Knowledge Graph, Machine Learning, Artificial Intelligence, Digital Transformation, E-Government
+This is the place where I can explore and upgrade technological things.😃
+
+I have some area of interests:
+- Big Data Engineering and Analytics, Information Retrieval, Knowledge Graph, Machine Learning, Artificial Intelligence
+- Information System and Applications
+- Digital Transformation, Electronic Government (E-Government)
   
 ## Github Stats  
 <table>
@@ -29,9 +34,6 @@ Big Data Engineering and Analytics, Information Retrieval, Knowledge Graph, Mach
   </tr>
 </table>  
 
-<br/>
-<br/>
-----
 <div align="center">
   Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
 </div>
