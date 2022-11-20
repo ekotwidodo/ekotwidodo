@@ -1,5 +1,7 @@
-## Hello 👋, I'm Eko Teguh!
-  
+## Hello Everyone 👋
+
+My name is Eko Teguh Widodo, you can just call me Eko or Teguh. There are some platforms shown below that you may contact me.
+
 <a href="https://github.com/ekotwidodo" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -15,12 +17,14 @@
 
 ## Glad to see you here! 🤝
 
-This is the place where I can explore and upgrade technological things.😃
+This is the place where I can explore and upgrade technological things and doing research.😃
 
 I have some area of interests:
 - Big Data Engineering and Analytics, Information Retrieval, Knowledge Graph, Machine Learning, Artificial Intelligence
 - Information System and Applications
 - Digital Transformation, Electronic Government (E-Government)
+
+Feel free to contact and doing some collaborations through email or my social media.
   
 ## Github Stats  
 <table>
