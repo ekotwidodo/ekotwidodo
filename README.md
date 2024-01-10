@@ -1,6 +1,8 @@
-## Hello Everyone 👋
+## Hi there, my name is Eko 👋
 
-My name is `Eko Teguh Widodo`, you can just call me `Eko` or `Teguh`. There are some platforms shown below that you may contact me.
+(Currently), I am an IT specialist at [BPS-Statistics Indonesia](https://bps.go.id) in Bandar Lampung, Lampung Province, Indonesia.
+
+These are platforms which you can reach me.
 
 <a href="https://linkedin.com/in/ekoteguh" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -12,16 +14,11 @@ My name is `Eko Teguh Widodo`, you can just call me `Eko` or `Teguh`. There are 
   <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
-## Glad to see you here! 🤝
+## Research and Collaboration 🤝
 
-This is the place where I can explore and upgrade technological things, run projects, and do some research.😃
-
-I have some areas of interest:
-- Big Data Engineering and Analytics, Artificial Intelligence: Machine Learning, Natural Language Processing, and Knowledge Graph
-- Software Enginering: Information System and Applications
-- Digital Transformation, Electronic Government (E-Government)
-
-Feel free to contact me and do some collaborations through email or my social media.
+- **Big Data Engineering and Analytics, Artificial Intelligence**: Machine Learning, Knowledge Graph, Natural Language Processing
+- **Software Enginering**: Information System and Applications
+- **Digital Transformation, Electronic Government (E-Government), IT Management and Policy**
 
 ## Languages and Tools
 
