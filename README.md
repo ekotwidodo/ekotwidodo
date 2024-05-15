@@ -1,6 +1,10 @@
 ## Hi there, my name is Eko 👋
 
-(Currently), I am an IT specialist at [BPS-Statistics Indonesia](https://bps.go.id) in Bandar Lampung, Lampung Province, Indonesia.
+(Currently), I am an IT specialist at [BPS-Statistics Indonesia](https://bps.go.id) in Bandar Lampung, Indonesia.
+
+Experienced IT specialist with over 5 years in data governance, quality assurance, and information systems. Previously, spent nearly 5 years as a Statistician conducting data collection, processing dan tabulation, analysis, and dissemination.
+
+Data governance is related to data engineering and data science skills, Quality assurance for software and non-software (Quality Gates), and Information systems is about software engineerng, developing applications.
 
 These are platforms which you can reach me.
 
