@@ -1,15 +1,14 @@
 ## Hi there, my name is Eko 👋
 
-(Currently), I am a Computer specialist at [BPS-Statistics Indonesia](https://bps.go.id) located in the Provincial Branch Office in Bandar Lampung, Indonesia. I have experience with over 10 years in data governance, information systems, data processing and integration, data analysis, and statistical quality assurance. A Computer Specialist is a broad role. In daily activities, I do some tasks, particularly technical things below.
+I am a Senior Computer Specialist at Statistics Indonesia, bringing a strong work ethic, collaborative mindset, and a friendly approach to problem-solving in public services.
 
+In daily activities, I do some tasks, particularly technical things, such as:
 - develop applications using programming languages: Python, Java, PHP, and JavaScript (Vanilla, NodeJS, React, Vue);
 - build an ETL data processing using Python and Java, as data engineering tools: Airflow, Kafka, etc.;
 - analyzing data using statistical tools using R and Python;
-- other technical tasks mainly utilize technologies that I have mentioned.
+- other technical tasks mainly utilize technologies to gather insights.
 
-In advance, I do research in data and knowledge engineering, ontology, graph databases, and nowadays known as knowledge graphs. Besides, it is also combined with other areas, such as natural language processing (NLP) and Machine Learning. I am open for you to collaborate with me on those research interests.
-
-I also received requests to be an instructor/lecturer in statistics, data processing and analysis, graph databases, and programming languages.
+In advance, I do research in data and knowledge engineering, knowledge graphs, semantic web technologies, software engineering (especially in software testing), machine learning and generative AI (particularly in large language models). I open for you to collaborate with me on those research interests. Besides, I also received requests to be a university lecturer or instructor for some courses, including statistics, data processing and analysis, graph databases, and programming languages at Universities or other institutions.
 
 These are platforms on which you can reach me.
 
