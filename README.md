@@ -5,13 +5,9 @@
 **`Senior Computer Specialist | AI Engineer | Lecturer`**
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I am a **Senior Computer Specialist** and **AI Engineer** at **BPS-Statistics Indonesia**, bringing a strong work ethic, collaborative mindset, and a friendly approach to problem-solving in public services. I specialize in bridging data, knowledge engineering, and artificial intelligence to build intelligent systems that drive better statistical insights.
-
----
 
 ## ⚡ What I Do
 
@@ -21,8 +17,6 @@ I am a **Senior Computer Specialist** and **AI Engineer** at **BPS-Statistics In
 - 🤖 **AI Applications** — Build intelligent solutions: **question-answering systems**, **recommendation systems**, and other ML/LLM-powered applications
 - 🔧 **Technical Consulting** — Leverage technology to gather insights and solve complex problems
 
----
-
 ## 🔬 Research Interests
 
 > Data & Knowledge Engineering · Knowledge Graphs · Semantic Web · Software Engineering (Testing) · Machine Learning · Graph Machine Learning · Generative AI (LLMs)
@@ -30,8 +24,6 @@ I am a **Senior Computer Specialist** and **AI Engineer** at **BPS-Statistics In
 I'm always open to collaboration on these topics. Feel free to reach out!
 
 I also serve as a **lecturer** or **instructor** for courses in statistics, data processing & analysis, graph databases, and programming languages at universities and other institutions.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -62,20 +54,6 @@ I also serve as a **lecturer** or **instructor** for courses in statistics, data
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/ekotwidodo?style=for-the-badge&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/ekotwidodo?style=for-the-badge&logo=github&label=Stars)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fekotwidodo)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
