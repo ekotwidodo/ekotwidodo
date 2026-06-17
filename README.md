@@ -2,12 +2,12 @@
   
 # Hi there, I'm Eko 👋
 
-**`Senior Computer Specialist | AI Engineer | Lecturer`**
+**`Computer Specialist | AI Engineer | Lecturer`**
 </div>
 
 ## 👨‍💻 About Me
 
-I am a **Senior Computer Specialist** and **AI Engineer** at **BPS-Statistics Indonesia**, bringing a strong work ethic, collaborative mindset, and a friendly approach to problem-solving in public services. I specialize in bridging data, knowledge engineering, and artificial intelligence to build intelligent systems that drive better statistical insights.
+I am a **Computer Specialist** and **AI Engineer** at **BPS-Statistics Indonesia**, bringing a strong work ethic, collaborative mindset, and a friendly approach to problem-solving in public services. I specialize in bridging data, knowledge engineering, and artificial intelligence to build intelligent systems that drive better statistical insights.
 
 ## ⚡ What I Do
 
