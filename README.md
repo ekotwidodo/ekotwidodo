@@ -13,6 +13,7 @@ I am a **Computer Specialist** and **AI Engineer** at **BPS-Statistics Indonesia
 
 - 💻 **Software Development** — Python, Java, PHP, Go, JavaScript (Vanilla, Node.js, React, Vue)
 - 🔄 **Data Engineering** — ETL pipelines with Python/Java, Airflow, Kafka, and more
+- 🕸️ **Knowledge Engineering** — Ontology engineering, building knowledge graphs, and leveraging Semantic Web standards (RDF, OWL, SPARQL)
 - 📊 **Data Analysis** — Statistical modeling and analysis using R and Python
 - 🤖 **AI Applications** — Build intelligent solutions: **question-answering systems**, **recommendation systems**, and other ML/LLM-powered applications
 - 🔧 **Technical Consulting** — Leverage technology to gather insights and solve complex problems
